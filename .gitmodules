@@ -1,0 +1,3 @@
+[submodule "Sub"]
+	path = Sub
+	url = https://github.com/rich77926/SubModuleTest2.git
